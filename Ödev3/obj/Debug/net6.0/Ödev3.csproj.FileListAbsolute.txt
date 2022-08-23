@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\bin\Debug\net6.0\Ödev3.exe
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\bin\Debug\net6.0\Ödev3.deps.json
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\bin\Debug\net6.0\Ödev3.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\bin\Debug\net6.0\Ödev3.dll
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\bin\Debug\net6.0\Ödev3.pdb
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.dll
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\refint\Ödev3.dll
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.pdb
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\Ödev3.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\Odev-Algoritma-Soruları\Ödev3\obj\Debug\net6.0\ref\Ödev3.dll
